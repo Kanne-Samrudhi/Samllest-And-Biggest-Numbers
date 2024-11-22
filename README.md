@@ -1,1 +1,1 @@
-# Samllest-And-Biggest-Numbers
+# Smallest-And-Biggest-Numbers
